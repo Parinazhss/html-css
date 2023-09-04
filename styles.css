@@ -1,0 +1,51 @@
+
+h1 , p, h2 {
+    color:aliceblue;
+}
+
+    h2 {
+        font-style:oblique;
+        text-align: left;
+    }
+img {
+     border:1px solid white;
+     position:fixed;
+       top: 150px;
+       right: 5px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #600505;
+}
+
+header {
+    background-color: #9d0a0a;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+}
+
+
+
+footer {
+   position:relative;
+   top: 270px;
+    bottom: 0px;
+    width: 300xp;
+    height: 300xp;
+    background-color: #9d0a0a;
+}
+
+
